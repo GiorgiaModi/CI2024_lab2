@@ -61,3 +61,4 @@ Note again that for large datasets, the results are not optimal and additional g
 |            |            | Genetic (greedy start)         | 39870.89        | 1500                        | 15m 52.8s    |
 | **China**  | Guiyang    | Greedy                         | 65605.44        | 725                         | 2.0s         |
 |            |            | Genetic (random start)         | 377135.14       | 2500                        | 128m 2.8s    |
+|            |            | Genetic (greedy start)         | 64869.18        | 1500                        | N/A          |
